@@ -1,0 +1,106 @@
+video1 | 500mm = 132 px
+296 px ground truth
+132 px * 2.243 = 296.076
+132 px * Y = 296
+296/132 = Y = 2.242
+500mm * 2.242 = 1121 mm
+
+video1  | 500mm = 132 px | Ground Truth: 296 px
+132 px * Y = 296 px
+Y = 296/132 = 2.242
+500mm * 2.242 = 1121 mm
+
+video2  | 500mm = 130 px | Ground Truth: 373 px
+130 px * Y = 373 px
+Y = 373/130 = 2.869
+500mm * 2.869 = 1435 mm
+
+video3  | 500mm = 128 px | Ground Truth: 315 px
+128 px * Y = 315 px
+Y = 315/128 = 2.461
+500mm * 2.461 = 1231 mm
+
+video4  | 500mm = 118 px | Ground Truth: 288 px
+118 px * Y = 288 px
+Y = 288/118 = 2.441
+500mm * 2.441 = 1221 mm
+
+video5  | 500mm = 118 px | Ground Truth: 272 px
+118 px * Y = 272 px
+Y = 272/118 = 2.31
+500mm * 2.31 = 1155 mm
+
+video6  | 500mm = 118 px | Ground Truth: 149 px
+118 px * Y = 149 px
+Y = 149/118 = 1.262
+500mm * 1.262 = 631 mm
+
+video7  | 500mm = 148 px | Ground Truth: 359 px
+148 px * Y = 359 px
+Y = 359/148 = 2.246
+500mm * 2.246 = 1123 mm
+
+video8  | 500mm = 121 px | Ground Truth: 261 px
+121 px * Y = 261 px
+Y = 261/121 = 2.157
+500mm * 2.157 = 1079 mm
+
+video9  | 500mm = 138 px | Ground Truth: 345 px
+138 px * Y = 345 px
+Y = 345/138 = 2.5
+500mm * 2.5 = 1250 mm
+
+video10 | 500mm = 123 px | Ground Truth: 293 px
+123 px * Y = 293 px
+Y = 293/123 = 2.382
+500mm * 2.382 = 1191 mm
+
+video11 | 500mm = 116 px | Ground Truth: 214 px
+116 px * Y = 214 px
+Y = 214/116 = 1.845
+500mm * 1.845 = 923 mm
+
+video12 | 500mm = 72 px | Ground Truth: 284 px
+72 px * Y = 284 px
+Y = 284/72 = 3.944
+500mm * 3.944 = 1972 mm
+
+video13 | 500mm = 73 px | Ground Truth: 276 px
+73 px * Y = 276 px
+Y = 276/73 = 3.78
+500mm * 3.78 = 1890 mm
+
+video14 | 500mm = 110 px | Ground Truth: 600 px
+110 px * Y = 600 px
+Y = 600/110 = 5.456
+500mm * 5.456 = 2728 mm
+
+video15 | 500mm = 100 px | Ground Truth: 263 px
+100 px * Y = 263 px
+Y = 263/100 = 2.63
+500mm * 2.63 = 1315 mm
+
+video16 | 500mm = 98 px | Ground Truth: 367 px
+98 px * Y = 367 px
+Y = 367/98 = 3.745
+500mm * 3.745 = 1873 mm
+
+video17 | 500mm = 98 px | Ground Truth: 340 px
+98 px * Y = 340 px
+Y = 340/98 = 3.47
+500mm * 3.47 = 1735 mm
+
+video18 | 500mm = 88 px | Ground Truth: 342 px
+88 px * Y = 342 px
+Y = 342/88 = 3.886
+500mm * 3.886 = 1943 mm
+
+video19 | 500mm = 90 px | Ground Truth: 362 px
+90 px * Y = 362 px
+Y = 362/90 = 4.022
+500mm * 4.022 = 2011 mm
+
+video20 | 500mm = 92 px | Ground Truth: 360 px
+92 px * Y = 360 px
+Y = 360/92 = 3.913
+500mm * 3.913 = 1957 mm
